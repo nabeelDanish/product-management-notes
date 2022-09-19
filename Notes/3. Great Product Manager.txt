@@ -1,0 +1,54 @@
+1. Being Data Oriented
+    - Data analysis is very important
+        - Apply mathematical and scientific methods on data
+        - Test your hypothesis using data
+        - Follow the scientific method
+
+    - A good product manager is a scientist
+        - Back anything you claim with data
+        - Prevents poor and rash decisions
+        - No room for opinions since its all data driven
+        
+    - As a PM, you want the most value from the least risk and data helps you identify risks
+
+2. Humbleness
+    - PM should always operate on data
+    - Resist temptation to add charms and stuff, let data speak
+    - As umer adnan says: "keep your head down and keep doing the good work"
+    - No need to add razzle and dazzle in your pitch. Let your idea speak
+    - You are not doing this alone. Everything is made by a team
+    - It should never be "I" it should be "We"
+
+3. Challenging Yourself
+    - Strive to perfection, be never sure that you did the best job
+    - Use this as a sanity check, not to create self-doubt
+    - Just ensure that you are double checking everything
+    - Do not dismiss every idea
+    - Coming up with a great product idea is like rolling a dice with destiny
+    - If you think you don't have time to double check, than make it 
+    - It is a culture. You have to cultivate this in your team
+
+4. Empathy and Respect
+    - Use your understanding from User Experience Engineering
+    - It is always easier to repair than to replace
+    - When people leave, they always blame the managers, not the positions
+    - How to be empathetic:
+        - Listen to people attentively where the goal is to understand
+        - See if you can spot if they are not happy and try and understand why
+    - If your team knows they can count on you, then you can count on them
+    - Never force help. Put it out on a plate, and let them grab it for themselves. 
+    - If there is a conflict, make sure it is resolved using a one-on-one, after everyone has cooled down
+
+5. Integrity
+    - Practice of being honest
+    - Showing
+        - A consistent and uncompromising adherence
+        - To strong moral and ethical principles and values
+    - Why have integrity?
+        - People trusts you
+        - Do not play people politics
+        - It shows that you are dedicated to the cause
+    - Admit what's wrong, take the blame. 
+    - Lead by example, when you take responsibility, your team will do too
+    - Having integrity means being truthful, but that does not mean brutally honest
+        - Use empathy to mold truths so that they are easy to digest

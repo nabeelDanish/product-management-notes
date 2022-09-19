@@ -1,0 +1,81 @@
+1. What is a Product Manager
+    - A product manager 
+        - LEADS a product
+        - That SOLVES a PROBLEM
+        - In a MEASURABLE way
+        - Using a TEAM of TALENTED INDIVIDUALS
+        - And TECHNOLOGY
+        - In order to deliver VALUE
+
+2. Responsibilities
+    - Shaping Product vision, strategy, and goals
+    - Deciding on what to build, and in which order
+    - Conducting research that justifies your choices (being data driven)
+    - Set and measure criteria for the development
+    - Listening to users and clients and reacting to feedback
+    - Look for market opportunities
+    - Leading teams without authority
+    - Carrying the financial health of the product
+
+3. Why be a Product Manager?
+    - Basically allows you to become a polyglot
+    - Multidisciplinary means you can become a PM from any field before you
+    - Q/A people are most likely to become PM
+    - You are in the spotlight (leader)
+    - Every team member under Product Manager (if motivated properly) are Junior Product Managers
+
+4. Project vs Product
+    - Product is something a user uses
+    - Project is all the processes required to create a product
+    - House is a product
+    - Designing -> Building -> Verifying is a project
+    - Product hierarchy
+        - Brand             - Solves a big problem (Google)
+        - Product Group     - Set of related products (Google Office)
+        - Product           - Single Product (Google Docs)
+        - Feature           - Makes up Product (Create a Document)
+        - Service           - Allows Feature to work (Code)
+
+    - All these layers can have their own product managers
+    - Not all PMs are working for a user facing product
+
+5. Project Management vs Product Management
+    - Product Manager envisioned the perfect dream house
+    - Project Manager is responsible for ensuring that dream house is made in the right time and budget
+    - Product Manager is the captain of the ship, Project Manager is the First Mate
+    
+    - A Project Manager
+        - Estimates the effort for the project
+        - Breaks large piece of work into manageable chunks
+        - Monitors progress and set deadlines
+        - Solves issues that arises
+        - Directs the team to achieve the common goal
+
+    - A Program Manager does both Project and Product Management
+    - There are also specialized PM roles like AI PM, Engineering PM, which means that the person needs to have those technical skills
+
+6. IT Project Management
+    - Is less-resource intensive
+    - Has more risks in the market
+
+7. Quiz 1
+    - George works with the development team on a mobile app. 
+    - He works with the team on a daily basis, helps them understand the requirements of the tasks, makes sure they are making nice progress, and reports on it to his managers. 
+    - He also helps the team unblock stuck tasks, i.e. when a needed resource (i.e. API) is not working. 
+    - What is George's position?
+
+        - He is a Project Manager
+
+    - Amanda is a shy person, that doesn't enjoy talking to people. 
+    - At the same time, she is passionate about managing IT products and would prefer doing that as a PM, not as a code developer, which is her current position. 
+    - Can Amanda become a Product Manager?
+
+        - Yes, but she will need to work on people's skills
+
+    - Does a search engine need a Product Manager?
+    
+        - It can be a separate Product with its own PM, but can also be a feature inside a product, thus not requiring a dedicated Product Manager
+
+    - What are the benefits of managing IT products over the ones manufactured in "real" life?
+
+        - All of the above (They use fewer resources, They are less risky to develop, It's easy to rectify a mistake)

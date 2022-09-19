@@ -1,0 +1,21 @@
+1. Exercise 1 - Have you ever done Project Management before?
+    - Does any of your current or past roles have Product Management features?
+        - Working on my FYP (MUKALMA) had significant product management tasks
+        - We as a team were creating a chatbot that could take knowledgeably and human like
+        - The project involved defining the entire product
+
+    - Did you choose or suggested a change in a product that was introduced?
+        - Yes. Many of the features delivered in the product were changed as time went on
+        - Topic Transitioning and Being an open-domain chatbot were a few of these changes
+
+    - Was it an IT Product?
+        - Yes. A Chatbot means that it was an IT project that involved a lot of SE and AI
+
+    - Did you lead a team?
+        - The team was decentralized, but it still required significant leadership
+
+    - Did you deliver value?
+        - I believe so. The chatbot was part of a research paper that was eventually published and cited
+
+    - What features does it miss from the definition provided? Perhaps you did similar work outside your work experience?
+        - I think it incorporated all of the features in the definition
