@@ -32,9 +32,11 @@
     - Use your understanding from User Experience Engineering
     - It is always easier to repair than to replace
     - When people leave, they always blame the managers, not the positions
+    
     - How to be empathetic:
         - Listen to people attentively where the goal is to understand
         - See if you can spot if they are not happy and try and understand why
+    
     - If your team knows they can count on you, then you can count on them
     - Never force help. Put it out on a plate, and let them grab it for themselves. 
     - If there is a conflict, make sure it is resolved using a one-on-one, after everyone has cooled down
@@ -44,11 +46,85 @@
     - Showing
         - A consistent and uncompromising adherence
         - To strong moral and ethical principles and values
+    
     - Why have integrity?
         - People trusts you
         - Do not play people politics
         - It shows that you are dedicated to the cause
+    
     - Admit what's wrong, take the blame. 
     - Lead by example, when you take responsibility, your team will do too
     - Having integrity means being truthful, but that does not mean brutally honest
         - Use empathy to mold truths so that they are easy to digest
+
+6. Diplomacy
+    - You need to realize you will be saying "NO" a lot of times
+        - Like discarding requests
+        - Not taking more work
+        - Not allowing all ideas to go
+    
+    - You have to be strategic about your NOs
+        - Explain your train of thought
+        - Share your data, make a stellar case
+        - Make them excited about what is to come
+    
+    - Be empathic
+        - Tell them you understand their PoV
+        - Take time to research your NO
+    
+    - Conflict between business and tech people
+        - Remember, business always comes first
+        - You are creating the product to deliver value
+        - This is something that you need to be very good at communicating
+    
+    - Sometimes you have to bend the knee to the stakeholders
+    - Diplomacy means aligning the company values with yours so that the product can succeed
+    - Any diplomat is out of war, that means no company politics
+
+7. Transparency
+    - This is taken from SCRUM or Agile
+    - Everyone in the team and the management needs to be transparent
+    - Things like vision, strategy, and values, should be the most transparent
+    - This helps you avoid issues in product and processes
+    - Good product managers will regularly update their team with information
+    
+    - You still need to be strategic with transparency
+        - Telling the truth is always preferred but not the brutal honest truth
+        - Be transparent without showing the direct results 
+        - If there is secrecy be transparent about why the secrecy (for example: sensitive details about a product)
+
+    - Transparency does not mean pointing fingers
+        - Give all the information but do not point finger
+    
+    - Most important part about transparency is DOCUMENTATION
+
+8. Being Ahead of the Game
+    - Talk to clients that are leaving/coming to you from a competitor
+        - Understand their products and innovate
+        - Understand your competitor's motivation and values
+        - Understand how your competitors are seen/perceived by the market
+    
+    - React quickly to internal company changes
+        - Position openings, new tech demos
+        - New clients
+
+    - Be on the top of industry knowledge
+        - Follow blogs, feeds, community boards, industry leaders
+        - Identify trends, and needs of your clients
+        - Use google alerts, grow your LinkedIn network
+        - Visit industry conventions and conferences
+
+    - Thinking ahead doesn't just mean thinking like what will happen in the next 2-3 years
+        - Think far ahead in the future
+        - What will happen if your product becomes obsolete?
+
+    - Being ahead of the game also means developing yourself
+        - Your skill sets 
+
+9. Other Core Skills
+    - Business Acumen
+    - Leadership
+    - Data Analysis
+    - Communication
+    - Technical
+    - Understanding Users
