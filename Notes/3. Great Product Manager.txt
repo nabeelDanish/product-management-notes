@@ -1,4 +1,27 @@
-1. Being Data Oriented
+1. Collaboration
+    - Product Managers never work alone
+    - A great product manager is a great team player
+    - Use the strong suites of people around you
+    - Delegate as much as you can, and people are trained at doing things better than you
+    - Make sure you are not the single point of failure
+
+2. Communication
+    - Get all the information that you need
+    - Ask as much questions as you can explain the same thing after getting waked up in the middle of the night
+    - Ask questions since you are goal-oriented
+    - Write down as much as you can. Take notes, meeting notes. Remember the details
+
+3. Confidence
+    - Communication is always supported by Confidence
+    - You can be confident if you are data-driven
+    - Confidence is always need to be communicated with the correct use of language
+    - Accepting flaws and mistakes help you gain confidence of the team
+
+4. Curiousness
+    - To be the person who is confident, you need to do your homework
+    - Doing your homework means being curious and asking a lot of questions
+
+5. Being Data Oriented
     - Data analysis is very important
         - Apply mathematical and scientific methods on data
         - Test your hypothesis using data
@@ -11,7 +34,7 @@
         
     - As a PM, you want the most value from the least risk and data helps you identify risks
 
-2. Humbleness
+6. Humbleness
     - PM should always operate on data
     - Resist temptation to add charms and stuff, let data speak
     - As umer adnan says: "keep your head down and keep doing the good work"
@@ -19,7 +42,7 @@
     - You are not doing this alone. Everything is made by a team
     - It should never be "I" it should be "We"
 
-3. Challenging Yourself
+7. Challenging Yourself
     - Strive to perfection, be never sure that you did the best job
     - Use this as a sanity check, not to create self-doubt
     - Just ensure that you are double checking everything
@@ -28,7 +51,7 @@
     - If you think you don't have time to double check, than make it 
     - It is a culture. You have to cultivate this in your team
 
-4. Empathy and Respect
+8. Empathy and Respect
     - Use your understanding from User Experience Engineering
     - It is always easier to repair than to replace
     - When people leave, they always blame the managers, not the positions
@@ -41,47 +64,80 @@
     - Never force help. Put it out on a plate, and let them grab it for themselves. 
     - If there is a conflict, make sure it is resolved using a one-on-one, after everyone has cooled down
 
-5. Integrity
-    - Practice of being honest
-    - Showing
-        - A consistent and uncompromising adherence
-        - To strong moral and ethical principles and values
-    
-    - Why have integrity?
-        - People trusts you
-        - Do not play people politics
-        - It shows that you are dedicated to the cause
-    
-    - Admit what's wrong, take the blame. 
-    - Lead by example, when you take responsibility, your team will do too
-    - Having integrity means being truthful, but that does not mean brutally honest
-        - Use empathy to mold truths so that they are easy to digest
+9. Goal Orientation
+    - Plans should not be focused on because they are going to change
+    - Setbacks and failures means that not all plans work
+    - Being Agile and Flexible in your thinking is important
+    - You can only be Agile and Flexible when you have a goal
+    - Remember, having a compass is better than having a map
+    - Goals and Metrics will help you stay directed and make focused efforts
 
-6. Diplomacy
-    - You need to realize you will be saying "NO" a lot of times
-        - Like discarding requests
-        - Not taking more work
-        - Not allowing all ideas to go
-    
-    - You have to be strategic about your NOs
-        - Explain your train of thought
-        - Share your data, make a stellar case
-        - Make them excited about what is to come
-    
-    - Be empathic
-        - Tell them you understand their PoV
-        - Take time to research your NO
-    
-    - Conflict between business and tech people
-        - Remember, business always comes first
-        - You are creating the product to deliver value
-        - This is something that you need to be very good at communicating
-    
-    - Sometimes you have to bend the knee to the stakeholders
-    - Diplomacy means aligning the company values with yours so that the product can succeed
-    - Any diplomat is out of war, that means no company politics
+10. Leadership
+    - Being a team player is important but you also need to be a leader
 
-7. Transparency
+11. Listening
+    - Active listening helps you make better decisions
+    - You are always presented with a lot of information
+    - Details matter, so active listening is going to be very important
+    - You need to be able to listen to noise and information, and get better at telling them apart
+
+12. Passion
+    - Passion will give you more energy 
+    - Having an internal passion will give you a internal pull, instead of relying on something external to push you
+    - Ask yourself everyday, if this was the last day for you, would you keep doing what you are doing right now?
+    - If the answer is no for a long time, than things need to change
+    - Your product is going to be your brainchild. You need to take care for it and nurture it for growth
+    - Every product has problems and failures and setbacks.
+    - Being passionate about your product will give you the energy to fix it, rather than let it be
+
+13. Prioritization
+    - Being able to recognize what is the most important things to do
+    - Your team can do anything and everything, but they need to prioritize tasks
+    - This is always a hard choice, since you need to pick a few ones at the right time
+    - It is important to free yourself from regret, since prioritizing the wrong thing is part of the job
+    - Trust your choices and your prioritizes, and use data to drive them
+
+14. Proactive
+    - Do not go passive about the knowledge stream
+    - Being reactive always will give you the same result every time
+    - Being proactive is like playing lottery. 
+        - If you can increase the number of plays, you can increase the chances of winning
+
+15. Problem Focus
+    - Being a product manager is not about adding features
+    - You are trying to solve a problem and add value
+    - Adding new features is not always the way to solve the problem
+    - Focus on the problem, understanding that can sometimes help you see that maybe
+        - You do not need a new feature but need to fix an existing one
+        - You need to have a better UXE or UI experience for your users
+        - You need to have better training of the users or have better onboardings
+
+16. Storytelling
+    - Being a great communicator does not mean you are a great storyteller
+    - Storytelling always helps you talk to business people and clients and your team
+    - Using personas, metaphors, and contexts is important to tell a good story
+    - Using the right number of words is also important
+    - Storytelling is directly linked to presenting and demoing 
+    - This is a very very advanced trait and very difficult to master
+    - Refer to the Iphone 1 Keynote by Steve Jobs, which is often regarded as one of the best presentations ever
+
+17. Technical Skills
+    - Of course having the technical skills for the domain and the tool you are designing is important
+    - In a multidisciplinary team, always ask your team members or team leads to give you a simplified explanation of the technical stuff
+        - That can be like a small sessions where you learn Embedded, Engineering, Science, etc etc
+        - For software teams
+            - Understanding databases, releases, version control is important
+            - Understanding manual and automated testing is important as well
+            - Learn about AI technology is also important
+        
+    - Do not become a Technical leader or team lead for technical stuff
+        - You are not concerned with the HOW of the things
+        - You should be concerned with
+            - WHAT the problem is
+            - WHY to solve it
+            - WHEN to solve it
+    
+18. Transparency
     - This is taken from SCRUM or Agile
     - Everyone in the team and the management needs to be transparent
     - Things like vision, strategy, and values, should be the most transparent
@@ -98,7 +154,7 @@
     
     - Most important part about transparency is DOCUMENTATION
 
-8. Being Ahead of the Game
+19. Being Ahead of the Game (Learning)
     - Talk to clients that are leaving/coming to you from a competitor
         - Understand their products and innovate
         - Understand your competitor's motivation and values
@@ -121,10 +177,42 @@
     - Being ahead of the game also means developing yourself
         - Your skill sets 
 
-9. Other Core Skills
-    - Business Acumen
-    - Leadership
-    - Data Analysis
-    - Communication
-    - Technical
-    - Understanding Users
+20. Integrity
+    - Practice of being honest
+    - Showing
+        - A consistent and uncompromising adherence
+        - To strong moral and ethical principles and values
+    
+    - Why have integrity?
+        - People trusts you
+        - Do not play people politics
+        - It shows that you are dedicated to the cause
+    
+    - Admit what's wrong, take the blame. 
+    - Lead by example, when you take responsibility, your team will do too
+    - Having integrity means being truthful, but that does not mean brutally honest
+        - Use empathy to mold truths so that they are easy to digest
+
+21. Diplomacy
+    - You need to realize you will be saying "NO" a lot of times
+        - Like discarding requests
+        - Not taking more work
+        - Not allowing all ideas to go
+    
+    - You have to be strategic about your NOs
+        - Explain your train of thought
+        - Share your data, make a stellar case
+        - Make them excited about what is to come
+    
+    - Be empathic
+        - Tell them you understand their PoV
+        - Take time to research your NO
+    
+    - Conflict between business and tech people
+        - Remember, business always comes first
+        - You are creating the product to deliver value
+        - This is something that you need to be very good at communicating
+    
+    - Sometimes you have to bend the knee to the stakeholders
+    - Diplomacy means aligning the company values with yours so that the product can succeed
+    - Any diplomat is out of war, that means no company politics
